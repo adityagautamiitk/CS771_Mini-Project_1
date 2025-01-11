@@ -1,4 +1,4 @@
-# Readme for CS771 Mini Project 1 - Group 67 Transformers
+# CS771 Mini Project 1 - Group 67 Transformers
 ## Structure of Zip Submission
 Along with our main transformers.py file, we have submitted the predictions for dataset 1, 2,3 and on the combined dataset whose names start with **pred**.
 Additonally, we have attached some of the files which were relevant to the preprocessing performed by us on the datasets. 
